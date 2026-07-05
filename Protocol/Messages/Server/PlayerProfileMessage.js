@@ -68,7 +68,7 @@ class PlayerProfileMessage extends PiranhaMessage {
     this.writeVInt(14)
     this.writeBoolean(true)
     this.writeVInt(300)
-    this.writeString('hello world')
+    this.writeString('I love sex')
     this.writeVInt(100)
     this.writeVInt(200)
     this.writeDataReference(29, 558)
