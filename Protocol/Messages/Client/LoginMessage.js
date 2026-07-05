@@ -1,7 +1,6 @@
 const PiranhaMessage = require("../../PiranhaMessage")
 const LoginOkMessage = require("../Server/LoginOkMessage")
 const OwnHomeDataMessage = require("../Server/OwnHomeDataMessage")
-const LobbyInfoMessage = require("../Server/LobbyInfoMessage")
 const DatabaseHandler = require("../../Database/DatabaseHandler")
 const ClientsManager = require("../../Utils/ClientsManager")
 
